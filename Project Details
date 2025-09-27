@@ -1,0 +1,33 @@
+Welcome to my end-to-end data analysis project where I explore the world of used cars using Python 🐍, SQL 🗄️, Power BI 📊, and DAX ⚡.
+
+🔍 What I Did
+
+🧹 Data Cleaning with Pandas: handled missing values, transformed columns, and prepared features.
+
+🗄️ SQL Queries: solved real-world business problems like:
+
+Top companies by average selling price 💰
+
+Market share by fuel type ⛽
+
+Car age impact on selling price 📉
+
+📊 Power BI Dashboards:
+
+Multi-page navigation (Overview, Car Insights 🚗, Regional Trends 🌍)
+
+Interactive slicers, drill-throughs, and dynamic KPIs
+
+⚡ DAX Measures: calculated profit margins, rankings, and company-wise contributions.
+
+📈 Key Insights
+
+🏆 Premium brands dominate average selling price.
+
+⛽ Diesel cars rule older models, while Petrol & EVs shine in newer ones.
+
+🌍 Regional dashboards reveal where each brand performs best.
+
+🎯 Why This Project?
+
+This project reflects how a data analyst works in real life → from cleaning raw data ➡️ querying for insights ➡️ designing dashboards that drive decisions.
